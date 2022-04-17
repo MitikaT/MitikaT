@@ -1,6 +1,6 @@
 [<img src="https://novatorem-two-woad.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/qwertyuiop1234567890-4)
 
-<div class="container">
+<svg><div class="container">
   
   <style>*{margin: 0; padding: 0;}
 body{background-color: black;}
@@ -160,4 +160,4 @@ body{background-color: black;}
         <a href="#_15" class="lightbox trans" id="img_15"><img src="https://image.freepik.com/free-photo/colorful-springtime_385-19321241.jpg"></a>
         <a href="#_16" class="lightbox trans" id="img_16"><img src="https://image.freepik.com/free-photo/from-blue-to-brown_426-19320820.jpg"></a>
     </div>
-</div>
+</div></svg>
